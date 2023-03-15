@@ -1,8 +1,14 @@
 import React from 'react'
+import ResumeItem from '../ResumeItem'
+import * as C from './style'
 
 const Resume = () => {
   return (
-    <div>Resume</div>
+    <C.Container>
+        <ResumeItem/>
+        <ResumeItem/>
+        <ResumeItem/>
+    </C.Container>
   )
 }
 
