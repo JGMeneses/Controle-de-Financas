@@ -25,7 +25,7 @@ export const InputContent = styled.div`
 
 export const Label = styled.label``;
 
-export const input = styled.input`
+export const Input = styled.input`
     outline:none;
     border-radius:5px
     padding: 5px 10px;
