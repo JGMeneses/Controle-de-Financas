@@ -27,5 +27,6 @@ const GridItem = ({item,onDelete}) =>{
     )
 }
 
+export default GridItem;
 
 
